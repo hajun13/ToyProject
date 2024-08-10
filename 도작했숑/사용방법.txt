@@ -1,0 +1,5 @@
+uvicorn app.main:app --reload --port 8080 서버 실행
+
+backend/app/static 안에 있는 html 실행
+
+다음 개선점 최적 코드로 만들어 보기/실제 서버에서 구동될 수 있게 해보기
